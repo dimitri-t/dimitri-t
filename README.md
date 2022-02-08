@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-i'm dimitri, a passionate software engineer from sydney. i am currently on my final year @ UNSW and on my free time i am learning web development. currently i am teaching myself how to build, test, design and deploy full-stack applications using technologies such as nextjs, tailwindcss, typescript, databases, react
+i'm dimitri, a passionate software engineer from sydney. i am currently on my final year @ UNSW and on my free time i teach myself how to build, test, design and deploy full-stack applications. some of the technologies i am working with are nextjs, react, tailwindcss, typescript, databases
 
 connect with me
 <span>
