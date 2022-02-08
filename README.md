@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Snake animation](https://github.com/dimitri-t/dimitri-t/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/dimitri-t/dimitri-t/output/github-contribution-grid-snake.svg)
