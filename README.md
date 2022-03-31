@@ -1,8 +1,8 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-i'm dimitri, a passionate software engineer from sydney. i am currently on my final year @ UNSW and on my free time i teach myself how to build, test, design and deploy full-stack applications. some of the technologies i am working with are nextjs, react, tailwindcss, typescript, databases
+i'm dimitri, a passionate software developer from sydney. i am currently in my final year @ UNSW studying computer science. currently i am teaching myself how to build, test, design and deploy full-stack applications. some of the technologies i am working with are nextjs, react, tailwindcss, typescript, cloud computing and web3!
 
-connect with me
+connect with me on linkedIn
 <span>
   <a href="https://www.linkedin.com/in/dimitri-tsardakas/">
     <img  alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
